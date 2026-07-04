@@ -93,7 +93,7 @@ The objective of this dashboard is to:
 
 ## 📷 Dashboard Preview
 
-> https://github.com/Anvesha8888/Operations-Intelligence-Dashboard/blob/main/Superstoredata%202.pdf
+> https://github.com/Anvesha8888/Operations-Intelligence-Dashboard/blob/main/Screenshot%202026-07-04%20120252.png
 
 ---
 
